@@ -1,5 +1,5 @@
 
- ##UNIK-VIP
+##UNIK-VIP
 
 
 This script was created for my server so this script will not receive any updates.
@@ -8,7 +8,6 @@ You are allowed to edit the script and do whatever you want.
 
 ### Dependencies:
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
-<br>
 <br>
 
 ### Start installing now
@@ -80,5 +79,5 @@ Config.PlayersWhitelisted = {
     'CDJ32814', --donko 
 }
 ```
-
+### PREVIEW:
 [PREVIEW](https://streamable.com/p0jycm)
