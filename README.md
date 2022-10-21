@@ -1,14 +1,12 @@
 
 ##UNIK-VIP
 
-
-This script was created for my server so this script will not receive any updates.
 This script was made with purpose for players who pay VIP to get 1 month to use all the server cars.
+This script was created for my server so this script will not receive any updates.
 You are allowed to edit the script and do whatever you want.
 
 ### Dependencies:
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
-<br>
 
 ### Start installing now
 You will need just to follow step-by-step guide for the installation process.
